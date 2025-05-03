@@ -96,11 +96,6 @@ Xion provides:
 
 Our platform utilizes CosmWasm, a WebAssembly-based smart contract platform for the Xion ecosystem:
 
-
-### CosmWasm Smart Contracts
-
-Our platform utilizes CosmWasm, a WebAssembly-based smart contract platform for the Cosmos ecosystem:
-
 - **Security**: Rust-based contracts with strong type safety and memory safety guarantees
 - **Efficiency**: Faster execution and lower gas costs compared to EVM-based contracts
 - **Flexibility**: Ability to create complex escrow arrangements tailored to real estate needs
