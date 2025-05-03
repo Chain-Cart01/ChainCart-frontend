@@ -22,11 +22,8 @@ This platform addresses major pain points in traditional real estate transaction
 1. **Frontend Application**
    - React.js web application
    - Mobile-responsive design
-<<<<<<< HEAD
-   - Integration with Abstract account, Keplr wallet and other Cosmos-compatible wallets
-=======
-   - Integration with Keplr wallet and other Cosmos-compatible wallets
->>>>>>> b408345e69f0224ec9f03b3bfd851134d2766174
+
+   - Integration with Abstract Meta account, Keplr wallet and other Cosmos-compatible wallet
    - Property listing interface with search, filter, and mapping capabilities
    - Transaction history and property management dashboard
 
